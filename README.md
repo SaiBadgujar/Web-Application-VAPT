@@ -1,11 +1,11 @@
-# 🛡 Web Application VAPT – DVWA
+# 🛡 Web Application VAPT
 
 ## 📌 Project Overview
 This repository documents an end-to-end Web Application Vulnerability Assessment and Penetration Testing (VAPT) performed on a deliberately vulnerable application.
 The assessment focused on identifying, exploiting, and documenting security weaknesses aligned with OWASP Top 10 standards.
 
 ## Target Application:
-- Damn Vulnerable Web Application (DVWA)
+- [Artist Vulnweb](http://testphp.vulnweb.com/artists.php)
 
 ## 🎯 Objectives
 - Perform structured web application security testing

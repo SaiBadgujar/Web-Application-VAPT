@@ -15,12 +15,15 @@ The assessment focused on identifying, exploiting, and documenting security weak
 - Provide remediation recommendations
 
 ## 🛠 Tools Used
-- Burp Suite – Web proxy & interception |
-- Nmap – Port scanning & service enumeration |
-- SQLMap – Automated SQL Injection testing |
-- Hydra – Brute force testing |
-- Nikto – Web server scanning |
-- Kali Linux – Testing environment
+
+| Tool        | Purpose                              |
+|-------------|--------------------------------------|
+| Burp Suite  | Web proxy & interception             |
+| Nmap        | Port scanning & service enumeration  |
+| SQLMap      | Automated SQL Injection testing      |
+| Hydra       | Brute force testing                  |
+| Nikto       | Web server scanning                  |
+| Kali Linux  | Testing environment                  |
 
 ## 🔍 Vulnerabilities Identified
 
@@ -57,6 +60,7 @@ The assessment focused on identifying, exploiting, and documenting security weak
 
 ## 📁 Repository Structure
 
+```
 |--/recon
 
 |--/exploitation
@@ -66,6 +70,7 @@ The assessment focused on identifying, exploiting, and documenting security weak
 |--/reports
 
 |--README.md
+```
 
 ## 🚀 Key Learning Outcomes
 - Practical understanding of OWASP Top 10 vulnerabilities
